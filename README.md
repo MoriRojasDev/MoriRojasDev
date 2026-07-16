@@ -12,7 +12,8 @@
 ## 💼 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,java,spring,angular,html,css,js,mysql,postgres,git,github,figma,postman" /></div>
+<img src="https://skillicons.dev/icons?i=cs,java,html,css,angular,spring,js,figma,git,github,sqlserver,mysql,postman" />
+</div>
 
 ---
 
