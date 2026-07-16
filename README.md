@@ -12,7 +12,8 @@
 ## 💼 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,java,html,css,angular,spring,js,figma,git,github,sqlserver,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,java,spring,angular,html,css,js,mysql,git,github,figma,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" alt="SQL Server"/>
 </div>
 
 ---
@@ -54,11 +55,4 @@
 
 ## 🤩 Principales contribuciones
 
-[![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=kuni2005&limit=5&theme=radical&combine_all_yearly_contributions=true)](https://github.com/kuni2005)
 
----
-
-
-<!--
-Hecho con ❤️ por Kuni2005
--->
