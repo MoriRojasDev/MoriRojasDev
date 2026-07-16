@@ -12,7 +12,7 @@
 ## 💼 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c#,java,html,css,angular,vue,js,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,angular,vue,js,figma,git,github" />
 </div>
 
 ---
