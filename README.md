@@ -31,12 +31,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuni2005&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=kuni2005&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuni2005&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
-
 ---
 
 ## 🏆 Trofeos
