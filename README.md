@@ -30,8 +30,8 @@
 ---
 
 ## 📈 GitHub Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MoriRojasDev&theme=tokyonight" alt="GitHub Streak" /></a>
 
----
 
 ## 🏆 Trofeos
 
