@@ -21,7 +21,7 @@
 ## 🌐 Conecta conmigo
 
 <p align="center">
-  <a href="https://www.facebook.com/Mathchette/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=61552726676655&locale=es_LA" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://www.instagram.com/alanix___mori/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.tiktok.com/@Alanix_Mori?is_from_webapp=1&sender_device=pc" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 
@@ -40,10 +40,6 @@
 ---
 
 ## 🏆 Trofeos
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kuni2005&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
-</div>
 
 ---
 
