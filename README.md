@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 **Estudiante de Ingeniería de Sistemas** en la UPC
+- 🎓 **Estudiante de TI, apasionado por el desarrollo de software, la tecnología y el análisis de datos. En constante aprendizaje, enfocado en fortalecer mis habilidades técnicas, resolver problemas y crear soluciones innovadoras que generen valor.**
 ---
 
 ## 💼 Tech Stack
@@ -30,9 +30,18 @@
 ---
 
 ## 📈 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MoriRojasDev&theme=tokyonight" alt="GitHub Streak" /></a>
+<div align="center">
 
+<!-- GitHub Stats -->
+<img src="https://ghstats.dev/api/card?username=MoriRojasDev&theme=tokyonight&hide_border=true" height="165" 
+     alt="GitHub Statistics"/>
 
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=MoriRojasDev&theme=tokyonight&hide_border=true" height="165"/>
+
+ <!-- Top Languages -->
+<img src="https://vani-stats.vercel.app/api?username=MoriRojasDev&theme=tokyonight" height="165" alt="Top Languages"/>
+</div>
 ## 🏆 Trofeos
 
 ---
